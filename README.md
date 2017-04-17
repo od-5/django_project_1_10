@@ -1,2 +1,2 @@
 # django_project_1_10
-Empty django site with django-suit and separated settings
+Empty django==1.10 site with django-suit and separated settings
