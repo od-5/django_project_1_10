@@ -1,0 +1,4 @@
+.idea/
+/cms/settings/local_settings.py
+*.pyc
+db.sqlite3
